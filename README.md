@@ -1,5 +1,8 @@
 # ESP32/8266 FFT Visualizer
 
+## Demo
+<video width="300" src="https://raw.githubusercontent.com/MaximeSahuc/esp-fft-visualizer/refs/heads/main/demo.mp4"></video>
+
 ## Libraries used
 - Adafruit_SSD1306
 - Adafruit_GFX
